@@ -1,0 +1,7 @@
+1) Query Validation – In an event the prompt is incomplete and requires further input to generate accurate output, the response should be a follow-up question
+2) Explainability – Particularly for the calculated metrics, the NLG feature should explain the underlying logic. Also, reference to the source table name from where the information is sourced by means of an “I”, icon
+3) Feedback – Option for the user to share feedback on the output
+4) LE/ Forecast – Configure an agent specifically for Latest Estimates/ Forecasting
+5) Currency Conversion option – USD to INR and vice-versa
+6) Finance Metrics – while the team will share list of pre-defined queries, it would be good for the team to also run research on what are few leading metrics used by the Finance Leaders/ BU Planners
+ 
